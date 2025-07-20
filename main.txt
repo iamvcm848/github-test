@@ -1,2 +1,3 @@
 This is a new file
 Hello part 2
+Hello part 3
